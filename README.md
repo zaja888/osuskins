@@ -55,4 +55,14 @@ Aristia edit with a cursor trail. by [Garin] + Aristia + various.
 
 ---
 
+## 6. fierymod v8 realest ver (hyeok2044 edit)
+
+fierymod v8, hyeok2044's edit. by various authors.
+
+![fierymod v8 realest ver (hyeok2044 edit)](images/fierymod.png)
+
+**[Download](https://github.com/zaja888/osuskins/raw/main/skins/fierymod%20v8%20realest%20ver%20%28hyeok2044%20edit%29.osk)**
+
+---
+
 all skins belong to their original creators.
