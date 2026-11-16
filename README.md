@@ -19,6 +19,8 @@ main skin. Zoxeim's NM skin, jace's SPEEDxJUMP edit.
 
 zaja's HD edit of the Zoxeim skin.
 
+![zaja HD](images/zaja-hd.png)
+
 **[Download](https://github.com/zaja888/osuskins/raw/main/skins/zaja%20HD.osk)**
 
 ---
@@ -37,6 +39,8 @@ Rafis 2018 HDDT, John edit with a yellow cursor.
 
 by Monko2k / Rektygon.
 
+![MonkoEdit](images/monkoedit.png)
+
 **[Download](https://github.com/zaja888/osuskins/raw/main/skins/MonkoEdit.osk)**
 
 ---
@@ -44,6 +48,8 @@ by Monko2k / Rektygon.
 ## 5. Aristia (Edit) + trail
 
 Aristia edit with a cursor trail. by [Garin] + Aristia + various.
+
+![Aristia (Edit) + trail](images/aristia.png)
 
 **[Download](https://github.com/zaja888/osuskins/raw/main/skins/Aristia%20%28Edit%29%20%2B%20trail.osk)**
 
